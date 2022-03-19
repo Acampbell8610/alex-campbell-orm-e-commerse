@@ -19,7 +19,7 @@
 This is a back end e-commerce website that uses the latest technologies
 so that a company can compete with other e-commerce companies.Thid project keeps track of the category, product as well as the tag to the items. It allows you to associate each together.Categories can have multiple products. products can have multiple tags.
 
-[Instructional Video](./Untitled_%20Mar%2012%2C%202022%208_58%20PM.webm)
+[Instructional Video](https://www.youtube.com/watch?v=wWWUzoZ01EU)
 
 ## Technology:
 * Javascript
